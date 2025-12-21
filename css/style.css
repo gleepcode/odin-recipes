@@ -7,7 +7,7 @@
 
 body {
     background-color: aliceblue;
-    width: 70%;
+    width: 40%;
     margin: auto;
     padding: 16px;
 }
@@ -34,6 +34,10 @@ h2 {
     border-radius: 1em;
     background-color: rgb(205, 221, 205);
     border: 0.15em solid black;
-    padding: 1em 2em;
+    padding: 1em 3em;
     margin: 1em;
+}
+
+button {
+    padding: 0.5em;
 }
